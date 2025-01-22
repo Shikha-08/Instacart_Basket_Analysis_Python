@@ -24,14 +24,14 @@ The dataset includes Instacart’s customer and order data, with key components 
 5. Merged Dataset: A combined view linking orders, products, and customer profiles for comprehensive analysis.
 
 # Tools and Technologies Used
-1. Python:\
+1. **Python**:\
     ● Jupyter Notebook: For interactive data analysis and visualization.\
     ● Pandas: For data manipulation, cleaning, and aggregation.\
     ● NumPy: For numerical computations.\
     ● Matplotlib & Seaborn: For data visualization.\
     ● SciPy: Advanced statistical analysis and computations.
    
-2. Anaconda:\
+2. **Anaconda**:\
     ● Used as the environment manager for seamless library management and execution.
 
 # Folder Structure
